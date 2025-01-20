@@ -1,0 +1,14 @@
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\bin\Debug\net9.0\vazifaMenejeri.exe
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\bin\Debug\net9.0\vazifaMenejeri.deps.json
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\bin\Debug\net9.0\vazifaMenejeri.runtimeconfig.json
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\bin\Debug\net9.0\vazifaMenejeri.dll
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\bin\Debug\net9.0\vazifaMenejeri.pdb
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\obj\Debug\net9.0\vazifaMenejeri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\obj\Debug\net9.0\vazifaMenejeri.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\obj\Debug\net9.0\vazifaMenejeri.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\obj\Debug\net9.0\vazifaMenejeri.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\obj\Debug\net9.0\vazifaMenejeri.dll
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\obj\Debug\net9.0\refint\vazifaMenejeri.dll
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\obj\Debug\net9.0\vazifaMenejeri.pdb
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\obj\Debug\net9.0\vazifaMenejeri.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\Vazifa menejeri\vazifaMenejeri\obj\Debug\net9.0\ref\vazifaMenejeri.dll
